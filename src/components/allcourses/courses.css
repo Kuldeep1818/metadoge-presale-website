@@ -6,7 +6,7 @@
   padding:30px 5px;
   text-align: left ;
   width:500px;
-  /* text-align: justify; */
+  
   border: 3px solid transparent;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(143, 109, 205, 0.702);
@@ -77,7 +77,7 @@ text-align: justify;
   font-weight: 500;
   color: #cd3d3a;
 }
-/*-------------online---------*/
+
 .online {
   text-align: center;
 }
@@ -139,7 +139,7 @@ text-align: justify;
 .online .box:hover h1 {
   color: #fff;
 }
-/*-------------online---------*/
+
 
   .metacoinvideo{
     height: 70%;

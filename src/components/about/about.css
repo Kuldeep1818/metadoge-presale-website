@@ -30,19 +30,7 @@
   padding: 0 10%;
 }
 
-/* .keyCard :nth-child(3), .keyCard :nth-child(4){
-  border-top:1px solid red !important; 
-}
 
-.keyCard :nth-child(3){
-border-right:1px solid red !important;
-} */
-
-/* @media (max-width: 425px){
-.price p {
-    font-size: 15px;
-}
-} */
 .flexSB{
  padding:20px 30px !important;
  margin:0 !important;
@@ -75,8 +63,7 @@ border-right:1px solid red !important;
   transition: 0.5s;
   border: 3px solid transparent;
   border-radius: 20px;
-  /* box-shadow: 0 0 10px rgba(143, 109, 205, 0.702); */
-  /* animation: borderLight 2s infinite; */
+ 
   
 }
 .help{
@@ -84,7 +71,7 @@ border-right:1px solid red !important;
   font-size: 25px;
 margin-bottom: 15px;
 color: white;
-/* background: linear-gradient(to right, #f32170, #ff6b08, #cf23cf, #eedd44); */
+
 background-color: #00fbf4;
 
 
@@ -113,7 +100,7 @@ font-family:" Roboto";
   display: flex;
   text-align: center;
   justify-content: center;
- /* margin-left: 15%; */
+
  
 }
 
@@ -124,12 +111,12 @@ font-family:" Roboto";
 }
 .white-button{
   border-radius: 25px;
-  /* width: 80vw; */
+ 
   align-self: center; font-size: 26px;
   margin: 0 5%;
-  /* background: linear-gradient(90deg, rgb(218, 133, 7) 0%, rgb(171, 69, 112) 25%, rgb(228, 41, 212) 100%); */
+ 
   background-color: rgb(148, 87, 235);
-/* background-image: linear-gradient(315deg, #21d190 0%, #d65bca 74%); */
+
 }
 
 .a{
@@ -164,7 +151,7 @@ font-family:" Roboto";
 }
 .aboutHome .item p {
   color: white;
-  /* word-wrap: break-word; */
+  
   font-family:" Roboto";
 }
 .aboutHome .item:hover {
@@ -173,11 +160,7 @@ font-family:" Roboto";
   cursor: pointer;
   box-shadow: 0 5px 25px -2px rgb(0 0 0 / 6%);
 }
-/* .aboutHome .item:hover p {
-  color: #fff;
-  font-size: 21px;
-} */
-/*----------awrapper------------*/
+
 .awrapper {
   background-image: url("../../../public/images/awrapper.webp");
   
@@ -195,7 +178,7 @@ font-family:" Roboto";
   margin-right: 30px;
 }
 
-/*----------awrapper------------*/
+
 @media screen and (max-width: 768px) {
   .aboutHome .container {
     flex-direction: column-reverse;
@@ -209,7 +192,7 @@ font-family:" Roboto";
   }
 }
 
-/* ------------------------------------------- */
+
 .coursesCard {
   padding: 50px 0;
 }
@@ -287,7 +270,7 @@ font-family:" Roboto";
   font-weight: 500;
   color: #cd3d3a;
 }
-/*-------------online---------*/
+
 .online {
   text-align: center;
 }
@@ -353,7 +336,7 @@ font-family:" Roboto";
 .text{
   word-spacing: 1rem;
 }
-/*-------------online---------*/
+
 @media screen and (max-width: 768px) {
   .itemss{
     display: grid;
@@ -367,7 +350,7 @@ font-family:" Roboto";
 @media (max-width: 576px) {
   .white-button {
     justify-items: center;
-    font-size: 14px; /* Adjust font size as needed */
-    padding: 10px 20px;  /*Adjust padding as needed */
+    font-size: 14px; 
+    padding: 10px 20px;  
   }
 }

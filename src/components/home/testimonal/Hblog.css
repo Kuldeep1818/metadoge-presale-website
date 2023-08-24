@@ -4,10 +4,7 @@
 	box-sizing: border-box;
 	font-family: Poppins;
 }
-@font-face {
-	font-family: Poppins;
-	
-}
+
 .main {
 	width: 100%;
 	height: auto;
@@ -34,7 +31,7 @@
 	background-image: linear-gradient(to right, rgba(91, 14, 216, 0.767),#cd3d3a);
 }
 
-/* Container Css Start  */
+
 
 .container {
 	width: 70%;
